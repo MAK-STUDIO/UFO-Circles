@@ -2,7 +2,7 @@ $(function() {
 	
 	var maxBots = prompt('Enter the number of Bots(>20 recommended)... And Good Luck!!!');
 	var createBotRate = 1000;
-	var moveInterval = 700;
+	var moveInterval = 900;
 	var myHits = 0;
 	var attackInterval = 2000;
 
